@@ -6,7 +6,7 @@ FONT_TEXT = "Arial"
 BACKGROUND_COL = "#9bdeac"
 DARK_BLUE = "#1163AA"
 PINK = "#D91657"
-TEST_SEC = 3
+TEST_SEC = 60
 
 
 class Interface:
